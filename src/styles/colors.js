@@ -5,6 +5,7 @@ const colors = {
     pinkSoft: '#FFE6EA',
     yellow: '#FFCE5B',
     white: '#FFFFFF',
+    black: '#333333',
 }
 
 export default colors;
